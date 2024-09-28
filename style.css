@@ -1,0 +1,559 @@
+
+
+*{
+    margin: 0px;
+    font-family: Lato;
+}
+
+
+.banner{
+width: 1920px;  
+height: 850px;
+flex-shrink: 0;
+background: rgba(229, 84, 115, 0.10);
+}
+
+.one-x{
+    color: #272727;
+
+font-size: 80px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+width: 708px;
+height: 288px;
+padding-top: 197px;
+padding-left: 240px;
+margin-right: 97px;
+
+}
+
+.one-y{
+    color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; 
+width: 634px;
+height: 90px;
+margin-top: 32px;
+margin-bottom: 32px;
+padding-left: 240px;
+}
+
+.one-z{
+    width: auto 177px;
+    height: auto 64px;
+    color: #FFF;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+border-radius: 8px;
+background: #E55473;
+
+}
+.btn{
+    padding-left: 240px;
+    padding-bottom: 147px;
+}
+
+.banner{
+    display: flex;
+}
+
+.one-a{
+
+    width: 635px;
+    height: 800px;
+   
+   margin-right: 240px;
+  
+   flex-shrink: 0;   
+}
+.two{
+    width: 1920px;
+    text-align: center;
+    max-width: 1920px;
+    margin: 178px auto;
+}
+.two-a{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+
+
+}
+.two-b{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+margin-top: 24px;
+width: 594px;
+height: 60px;
+margin-top: 24px;
+margin-left: 663px;
+
+}
+.three{
+    width:1920px;
+    height:653px;
+    background: #FFF;
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+
+   
+    
+   
+    
+}
+
+.three-x{
+    width: 464px;
+height: 538px;
+flex-shrink: 0;
+border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+margin-right: 24px;
+
+
+}
+
+.three-xx{
+    width: 310px;
+height: 428px;
+flex-shrink: 0;
+padding-top: 110px;
+padding-left: 76px;
+padding-right: 78px;
+}
+.three-x p{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 35px; 
+text-decoration-line: underline;
+margin-top: 32px;
+}
+
+
+
+.three-y{
+    width: 464px;
+height: 538px;
+flex-shrink: 0;
+border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+margin-right: 24px;
+}
+.three-yy{
+
+    width: 370px;
+height: 370px;
+flex-shrink: 0;
+padding: 117px 47px 51px 47px;
+
+}
+
+.three-p{
+    
+text-align: center;
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 35px; 
+margin-top: 32px;
+
+
+}
+.three-p a{
+    color: #272727;
+}
+
+
+.three-z{
+    width: 464px;
+height: 538px;
+flex-shrink: 0;
+border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+}
+
+.three-zz{
+    width: 314px;
+height: 471px;
+flex-shrink: 0;
+padding: 67px 75px 0px 75px;
+}
+
+.three-z p{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px; 
+    text-decoration-line: underline;
+    margin-top: 32px;
+
+}
+
+.four{
+    width: 1440px;
+height: 320px;
+flex-shrink: 0;
+border-radius: 8px;
+background: rgba(39, 39, 39, 0.05);
+
+margin: 128px 240px 0px 240px;
+
+display: flex;
+
+align-items: center;
+justify-content: center;
+
+}
+.four-xx, .four-yy,.four-zz{
+    width: 88px;
+height: 88px;
+flex-shrink: 0;
+}
+
+.four-xx{
+    padding-left: 150px;
+    margin-bottom: 24px;
+}
+.four-yy{
+    padding-left: 130px;
+    margin-bottom: 24px;
+}
+.four-zz{
+    padding-left: 55px;
+    margin-bottom: 24px;
+}
+.four-x p{
+    color: rgba(39, 39, 39, 0.80);
+text-align: center;
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 35px; 
+margin-right: 100px;
+
+}
+
+
+.four-y p{
+    color: rgba(39, 39, 39, 0.80);
+text-align: center;
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 35px; 
+margin-right: 100px;
+
+}
+
+.four-z p{
+    color: rgba(39, 39, 39, 0.80);
+text-align: center;
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 35px; 
+}
+
+
+
+.five{
+
+    width: 1920px;
+    height: 620px;
+}
+
+.five-a{
+    color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+
+.five-a span{
+    color: #E55473;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.five-b{
+    width: 594px;
+    height: 60px;
+    text-align: center;
+}
+
+.five-c button{
+    color: #FFF;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+
+border-radius: 8px;
+
+background: #E55473;
+}
+
+.five{
+   
+    display: flex;
+}
+
+.five-x{
+   
+    width: 594px;
+    height: 228px;
+    text-align: center;
+    margin-left: 395px;
+    padding-top: 230px;
+    margin-bottom: 162px;
+}
+
+.five-b{
+    margin-top: 24px;
+    margin-bottom: 32px;
+   
+}
+
+.five-a{
+    padding-left: 20px;
+}
+
+.five-y{
+    width: 318px;
+    height: 420px;
+   
+    margin: 100px 429px 100px 186px;
+
+}
+
+.six{
+    width: 594px;
+    height: 132px;
+    
+    text-align: center;
+    margin: 128px 663px 48px 663px;
+}
+
+.six-a{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+
+.six-x{
+    margin-top: 24px;
+}
+
+.six-x p{
+    width: 594px;
+    height: 60px;
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; 
+}
+
+.seven{
+    width: 1440px;
+    height: 396px;
+   
+    display: flex;
+    margin-left: 240px;
+}
+.seven-a,.seven-b,.seven-c{
+    margin-right: 24px;
+}
+
+.eight{
+    width: 1440px;
+    height: 449px;
+   
+    margin: 128px 240px 128px 240px;
+    border-radius: 8px;
+    background: url('flower-shop-assignment/Flower Asset/Rectangle 9.png')   no-repeat;
+
+    padding-top: 50px;
+}
+
+.eight-x input{
+    width: 700px;
+height: 64px;
+border-radius: 8px;
+background: #FFF;
+margin-left: 287px;
+margin-top: 48px;
+margin-right: 16px;
+
+}
+.eight-x button{
+    width: 150px;
+height: 64px;
+border-radius: 8px;
+background: #E55473;
+
+color: #FFF;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+
+.eight h1{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+padding-top: 50px;
+background-size: cover;
+
+/* padding: 100px 0; */
+
+}
+.eight p{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+
+
+}
+
+.nine{
+    width: 1920px;
+    height: 449px;
+    background: #111010;
+    margin-top: 128px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    
+}
+
+.nine-a{
+    color: #E55473;
+font-family: Lato;
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+
+}
+.nine-c{
+    width: 259px;
+    height: 58px;
+   /* margin: 128px 831px 24px 831px; */
+   margin-left: 832px;
+   margin-right: 832px;
+   margin-top: 128px;
+
+   
+}
+.nine-b{
+    color: #FFF;
+font-family: Lato;
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.nine-x{
+    width: 625px;
+    height: 60px;
+    /* margin: 40px 649px 179px 648px; */
+    margin-top: 24px;
+  margin-left: 649px;
+  margin-right: 649px;
+}
+.nine-x p{
+    color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; 
+
+}
+
+  .nine-y{
+    width: 355px;
+    height: 19px;
+    /* margin: -50px 783px 128px 784px; */
+    margin-top: 32px;
+    margin-left: 783px;
+    margin-right: 783px;
+   
+  
+} 
+.nine-y p{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+
+
+
